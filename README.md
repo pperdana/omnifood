@@ -1,6 +1,6 @@
 # Omnifood
 
-This Omnifood web is single web page for startup. It's design to deliver custom healthy meal plans. This web is beautiful, modern, and clean website that look professional and trustworthy company.
+This Omnifood web is single web page for startup. It's design to deliver custom healthy meal plans. The website is designed to showcase various features that could be included in an actual food delivery service, such as online ordering, meal plans, and customer reviews. It may also include interactive elements, such as animations or pop-ups, to engage visitors and demonstrate the user experience.
 
 ### Links
 
@@ -22,6 +22,7 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 - Display mobile navigation for mobile screen sizes
+- This web is beautiful, modern, and clean website that look professional and trustworthy company.
 
 ### Screenshot
 
