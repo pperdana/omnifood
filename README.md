@@ -17,8 +17,6 @@ This Omnifood web is single web page for startup. It's design to deliver custom 
 
 ### Features
 
-Users should be able to:
-
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 - Display mobile navigation for mobile screen sizes
