@@ -24,7 +24,7 @@ This Omnifood web is single web page for startup. It's design to deliver custom 
 
 ### Screenshot
 
-<!-- ![](./design/desktop-preview.jpg) -->
+![](./img/omnifood.png)
 
 ## Tech stack
 
